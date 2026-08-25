@@ -1,0 +1,8 @@
+{
+  "project": "Creative Cloud",
+  "previewHost": "main--da-cc--tsayadobe.aem.page",
+  "liveHost": "main--da-cc--tsayadobe.aem.live",
+  "trustedHosts": ["milo.adobe.com", "main--milo--adobecom.aem.page", "main--milo--adobecom.aem.live"],
+  "plugins": [
+  ]
+}
